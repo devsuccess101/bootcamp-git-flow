@@ -5,10 +5,11 @@
 
 <script>
 	const members = [
-    'kimnh-0823',
-    'kimyvgy',
-    'ntduc',
-		'hungnm',
+    "kimnh-0823",
+    "kimyvgy",
+    "toanpv-0639",
+    "ntduc",
+		"hungnm",
   ];
 </script>
 
