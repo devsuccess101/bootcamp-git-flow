@@ -12,7 +12,8 @@
 		'thinhnt-3039',
 		'loitv-2609',
 		'linhdb-2149',
-		'trong123'
+		'trong123',
+    'viet'
 	];
 </script>
 
