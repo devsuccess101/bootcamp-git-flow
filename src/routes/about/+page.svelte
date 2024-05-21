@@ -1,25 +1,26 @@
+<script>
+	const members = [
+		'kimnh-0823',
+		'kimyvgy',
+		'toanpv-0639',
+		'ntduc',
+		'hungnm',
+		'manhbq-2536',
+		'trungtd',
+		'ductt-0524',
+		'bachdx-1307',
+		'thinhnt-3039',
+		'loitv-2609',
+		'linhdb-2149',
+		'trong123',
+		'viet'
+	];
+</script>
+
 <svelte:head>
 	<title>About</title>
 	<meta name="description" content="About this app" />
 </svelte:head>
-
-<script>
-	const members = [
-    "kimnh-0823",
-    "kimyvgy",
-    "toanpv-0639",
-    "ntduc",
-	"hungnm",
-	"manhbq-2536",
-    "trungtd",
-    "ductt-0524",
-    "bachdx-1307",
-    "thinhnt-3039",
-    "loitv-2609",
-    "linhdb-2149",
-	"viet"
-  ];
-</script>
 
 <div class="text-column">
 	<h1>About thissssssssssss app</h1>
