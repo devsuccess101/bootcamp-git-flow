@@ -15,7 +15,7 @@
 		'trong123',
 		'viet',
 		'tuyen',
-    	'kimyvgy2',
+		'kimyvgy2',
 		'tuyen3'
 	];
 </script>
